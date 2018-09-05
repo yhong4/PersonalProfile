@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../../Css/Home.css';
 import '../../Css/App.css';
-import photo from './photo.png';
+import photo from '../../images/dog.jpg';
 
 import '../../../node_modules/font-awesome/css/font-awesome.css'
 export default class Home extends Component {

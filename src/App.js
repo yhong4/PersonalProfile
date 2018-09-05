@@ -12,7 +12,7 @@ import Service from './Component/Services/Service';
 import Contact from './Component/Contact/Contact';
 
 import Header from './Header/Head';
-
+import Footer from './Footer/Foot';
 import './Css/App.css';
 
 class App extends Component {
@@ -35,6 +35,7 @@ class App extends Component {
               </div>
             </div>
           </div>
+          <Footer />
         </div> 
       </div>
     );

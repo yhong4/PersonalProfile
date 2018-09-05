@@ -1,0 +1,15 @@
+footer {
+    position: fixed;
+    bottom:15px;
+    margin-left:40%;
+}
+
+footer .foot{
+    font-size:5px;
+   
+}
+
+
+.foot span{
+    color:#2eca7f;
+}
