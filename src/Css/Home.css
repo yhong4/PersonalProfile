@@ -1,0 +1,157 @@
+.home-page{
+    position: absolute;
+    width:100%;
+    max-width:1032px;
+    left:119px;
+    bottom:50px;
+    height:614px;
+    padding:0 0 50px 0;
+    margin:0 auto;
+    top:auto;
+    background-color: transparent;
+}
+
+.home-page .home-page-inner{
+    position: relative;
+    background-color: #fff;
+    border-radius: 30px
+}
+
+.home-header {
+    position: relative;
+    padding: 50px;
+    margin-bottom: 25px;
+    background-color: #2eca7f;
+    background-image: url('../images/sp_main_bg.png');
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px
+    
+}
+
+.home-header .home-photo {
+    max-width: 280px;
+    max-height:280px;
+    margin-bottom: -75px;
+    border: 3px solid #fff;
+    background-color: #fff;
+    box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-in-out;
+  }
+
+.home-header .home-photo:hover{
+    transform: scale(1.1);
+    box-shadow: 12px 12px 2px 1px rgba(214, 100, 230, 0.067)
+}
+
+.home-title{
+    position: absolute;;
+    right:200px;
+    top:70px;
+    text-align: center;
+}
+
+.home-title .career{
+    color:#fff;
+    font-size:20px;
+    font-weight:500;
+}
+
+.home-title .social-link{
+    position: relative;
+    text-align: center;
+    margin:20px 0 0 0;
+
+}
+
+.home-title .social-link a{
+    display:inline-block;
+    color:rgb(114, 104, 104);
+    background-color:#fff;
+    border-radius: 24px;
+    width:35px;
+    height:35px;
+    margin:0 2px;
+    text-align: center;
+}
+
+.home-title .social-link a:hover{
+    box-shadow: 1px 5px 2px 1px rgba(0,0,0,0.1);
+}
+
+.home-title .social-link a i{
+    position:relative;
+    margin:8px auto;
+    font-size:16px;   
+}
+
+.home-content{
+    display: flex;
+    padding:30px 50px 50px;
+}
+
+
+.home-content .introduction-wrap{
+    width:50%;
+    margin-right:10px;
+
+}
+
+.home-content .introduction-wrap:hover{
+    box-shadow: 0 1px 8px 1px rgba(0,0,0,0.1);
+}
+
+.home-content .introduction{
+    position: relative;
+    margin:30px 30px;
+}
+
+.introduction .introduction-title{
+
+    font-size:20px;
+    font-weight:600;
+    margin-bottom: 10px;
+}
+
+.introduction .introduction-title span{
+    color:#2eca7f;
+}
+
+.profile-wrap{
+    width:50%;
+    margin-right:10px;
+}
+
+.profile-wrap:hover{
+    box-shadow: 0 1px 8px 1px rgba(0,0,0,0.1);
+}
+
+.profile{
+    position: relative;
+    margin:30px 30px;
+}
+
+.info-list li{
+    list-style-type: none;
+    
+}
+
+.info-list .title{
+    display: inline-block;
+    width:100px;
+}
+
+.info-list .value{
+    display: inline-block;
+    color:rgba(3, 3, 3, 0.486)
+}
+
+.info-list a{
+    color:#2eca7f;;
+    text-decoration:none;
+}
+
+.info-list a:hover{
+    color:#dd7412;
+}
