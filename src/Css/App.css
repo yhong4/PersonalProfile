@@ -4,6 +4,28 @@ h1{
   font-weight:700;
 }
 
+h2{
+  color: #212121;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+h3{
+  color: #212121;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.5em;
+}
+
+h4{
+  color: #212121;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 600;
+}
+
 .page {
   position:relative;
   width:100%;

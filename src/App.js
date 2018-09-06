@@ -23,16 +23,16 @@ class App extends Component {
           <Header />
           <div className='main'>
             <div className='wrap'>
-              <div className='subpage'>
+              
                 <switch>
-                  <Redirect from='/' to='/home' />
+                  <Redirect from='/' to='/resume' />
                   <Route path='/home' component={Home} />
-                  <Route path='/blog' component={Blog} />
                   <Route path='/resume' component={Resume} />
+                  <Route path='/blog' component={Blog} />
                   <Route path='/service' component={Service} />
                   <Route path='/contact' component={Contact} />          
                 </switch>
-              </div>
+             
             </div>
           </div>
           <Footer />

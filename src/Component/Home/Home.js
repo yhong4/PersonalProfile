@@ -7,6 +7,7 @@ import '../../../node_modules/font-awesome/css/font-awesome.css'
 export default class Home extends Component {
     render(){
         return (
+            <div className='home-subpage'>
             <div className='home-page'>
                 <div className='home-page-inner'>
                     <div className='home-header'>
@@ -46,6 +47,7 @@ export default class Home extends Component {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         )
     }

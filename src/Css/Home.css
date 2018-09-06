@@ -1,3 +1,12 @@
+.home-subpage{
+    position: relative;
+    width:100%;
+    height:714px;
+    margin:0 auto;
+    padding-top:100px;
+    overflow: hidden; 
+  }
+
 .home-page{
     position: absolute;
     width:100%;
