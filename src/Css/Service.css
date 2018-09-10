@@ -1,0 +1,129 @@
+.service-subpage{
+    position: relative;
+    width:100%;
+    height:900px;
+    margin:0 auto;
+    padding-top:100px;
+    overflow: hidden; 
+}
+
+.service-page{
+    position:absolute;
+    width:100%;
+    max-width:1032px;
+    
+    left:119px;
+    height:1000px;
+    padding:0 0 50px 0;
+    margin:0 auto;
+    top:auto;
+    background-color:transparent;
+}
+
+
+.service-page .service-page-inner{
+    position:relative;
+    height:auto;
+    background-color:#fff;
+    border-radius:30px;
+}
+
+.service-page-header{
+    position: relative;
+    padding: 50px;
+    background-color: #f7a919;
+    background-image: url('../images/sp_main_bg.png');
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    text-align:center;
+}
+
+.service-page-header .service-name-title{
+    color:#fff;
+    font-size:46px;
+    font-weight:500;
+}
+
+.service-content{
+    padding:30px 50px 0;
+}
+
+.myservice-subsection{
+    margin-bottom:30px;
+}
+
+.myservice-subsection h3{
+    font-size:21px;
+    margin:5px 0 25px;
+}
+
+.myservice-subsection h3 span{
+    color:#f7a919;
+}
+
+.service-container{
+    display:flex;
+}
+
+.service-block{
+    padding:10px;
+    text-align: center;
+    
+}
+
+
+.service-img{
+    position:relative;
+    display:inline-block; 
+    width:120px;
+    height:120px;
+    background-color: #e0e0e0;;
+    border-radius: 100px;
+    
+}
+
+.service-img:hover{
+    box-shadow:  0 7px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-6px)
+}
+
+.service-img img{
+    position:absolute;
+    display:inline-block;
+    width:80px;
+    height:80px;
+    left:20px;
+    top:20px;
+}
+
+.service-title h4{
+    font-size:17px;
+    margin-bottom:13px;
+}
+
+.client-container{
+    display:grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-gap: 20px;
+    text-align:center;
+    padding-bottom:100px;
+}
+
+
+.logoImg img{
+    width:80px;
+    height:80px;
+
+}
+
+.logoImg {
+    opacity: 0.4;
+    transition: all 0.2s ease-in-out;
+}
+
+.logoImg:hover{
+    opacity: 1;
+}
+

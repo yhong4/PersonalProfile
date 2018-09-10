@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import '../../Css/Resume.css';
-import PropTypes from 'prop-types'
+
 
 
 

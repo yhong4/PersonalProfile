@@ -25,7 +25,7 @@ class App extends Component {
             <div className='wrap'>
               
                 <switch>
-                  <Redirect from='/' to='/resume' />
+                  <Redirect from='/' to='/blog' />
                   <Route path='/home' component={Home} />
                   <Route path='/resume' component={Resume} />
                   <Route path='/blog' component={Blog} />
