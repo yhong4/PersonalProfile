@@ -1,5 +1,6 @@
 # PersonalWebsite
 
+
 ## Technology stack
 CSS3, ReactJs, ReactRouter, JSX, Awesome icon
 
@@ -12,7 +13,7 @@ No
 ## Project URL
 [Link](https://personal-profile-hy.herokuapp.com/home)
 
-## install in localhost
+## Install in localhost
 1. Install npm
 ```
 brew install node
