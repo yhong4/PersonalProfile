@@ -1,18 +1,18 @@
-#PersonalWebsite
+# PersonalWebsite
 
-##Technology stack
+## Technology stack
 CSS3, ReactJs, ReactRouter, JSX, Awesome icon
 
-##Browser
+## Browser
 Chrome
 
-##Responsive
+## Responsive
 No
 
-##Project URL
+## Project URL
 [Link](https://personal-profile-hy.herokuapp.com/home)
 
-##install in localhost
+## install in localhost
 1. Install npm
 ```
 brew install node
@@ -33,6 +33,6 @@ npm run start
 http://localhost:3000
 ```
 
-##Author
+## Author
 Yang Hong
 
