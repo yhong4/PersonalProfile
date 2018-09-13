@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../../Css/Resume.css';
 import Item from './Item';
-import PropTypes from 'prop-types'
+
 
 const educationItem = [
     {

@@ -7,10 +7,13 @@
     "@fortawesome/free-solid-svg-icons": "^5.3.1",
     "@fortawesome/react-fontawesome": "^0.1.2",
     "font-awesome": "^4.7.0",
+    "loading-svg": "^1.0.0",
     "material-ui": "^0.20.2",
     "react": "^16.4.2",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.4.2",
     "react-google-maps": "^9.4.5",
+    "react-loading": "^2.0.3",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-router-native": "^4.3.0",
@@ -36,5 +39,5 @@
   "bugs": {
     "url": "https://github.com/yhong4/PersonalProfile/issues"
   },
-  "homepage": "https://github.com/yhong4/PersonalProfile#readme"
+  "homepage": "."
 }

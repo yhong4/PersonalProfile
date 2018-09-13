@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import '../../Css/Contact.css';
 import NavMap from './GoogleMap';
 import '../../../node_modules/font-awesome/css/font-awesome.css'
+import { Button } from 'react-bootstrap';
 
 export default class Contact extends Component {
     render(){
@@ -84,7 +85,7 @@ export default class Contact extends Component {
                                             </div>
                                             <textarea id='form-message' className='info-input message-box' placeholder='Message for Me' row='4' required='required' data-error='Message is required'></textarea>
                                         </div>
-                                        <input type='submit' value='SEND MESSAGE' className='send-button' />
+                                        <Button type='submit' value='SEND MESSAGE' className='send-button'>SEND MESSAGE</Button>
                                     </div>
                                 </form>
                             </div>
