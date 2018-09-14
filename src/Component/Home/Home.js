@@ -42,7 +42,7 @@ export default class Home extends Component {
                                     <li><span className='title'>Residence</span><span className='value'>Australia</span></li>
                                     <li><span className='title'>Address</span><span className='value'>20/15-19 O'Connell Street, Melbourne</span></li>
                                     <li><span className='title'>E-mail</span ><span className='value'><a href='mailto:yhong.it@gmail.com'>yhong.it@gmail.com</a></span></li>
-                                    <li><span className='title'>Phone</span><span className='value'>+0450101660</span></li>
+                                    <li><span className='title'>Phone</span><span className='value'>+61-0450101660</span></li>
                                 </ul>
                             </div>
                         </div>
