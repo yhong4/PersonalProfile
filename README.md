@@ -11,7 +11,7 @@ Chrome
 No
 
 ## Project URL
-[Link](https://personal-profile-hy.herokuapp.com/home)
+[APP LINK](https://personal-profile-hy.herokuapp.com/home)
 
 ## Install in localhost
 1. Install npm
