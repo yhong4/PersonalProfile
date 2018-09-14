@@ -29,8 +29,9 @@ export default class Home extends Component {
                             <div className='introduction'>
                                 <div className='introduction-title'>About  <span>Me</span></div>
                                 <div className='introduction-description'>
-                                    Hello! I’m Yang Hong. Lorem ipsum dolor sit amet, 
-                                    consectetur adipiscing elit. Aenean fermentum ullamcorper sem, at placerat dolor volutpat ac. Duis nulla enim, condimentum nec ultricies.
+                                    <p>Hello! I’m Yang Hong, an enthusiastic front-end </p>
+                                    <p>developer, a travel devotee, an amateur mangaka </p>
+                                    <p>and a guitar beginner.</p> 
                                 </div>
                             </div>
                         </div>

@@ -9,7 +9,7 @@ export default class Item extends Component{
         return(
             this.props.timelineItem.map((item => {
                 return(
-                    <div className='timeline-item'>
+                    <div className='timeline-item '>
                         <h4 className='item-title'>
                             {item.name}                   
                         </h4>

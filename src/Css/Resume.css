@@ -48,11 +48,14 @@
 }
 
 .resume-block{
-    width:50%;
-   
+    width:50%;  
     height:auto;
     margin-bottom:30px;
     margin-right:30px;
+}
+
+.education-block{
+    margin-bottom:60px !important;
 }
 
 .block-title h3{
@@ -149,5 +152,29 @@
 .skill-info-percentage{
     background-color:#17c6fc;
     height:8px;
-    width:66%;
+    
+}
+
+.skill-html{
+    width:95%;
+}
+
+.skill-css{
+    width:90%
+}
+
+.skill-javascript{
+    width:85%;
+}
+
+.skill-react{
+    width:60%;
+}
+
+.skill-python{
+    width:70%;
+}
+
+.skill-data{
+    width:70%;
 }
